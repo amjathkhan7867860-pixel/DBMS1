@@ -1,3 +1,1 @@
-# DBMS1
- taks1 = https://1drv.ms/w/c/36CD839EC0B6434A/IQBHa16gBJ25TqzvOK2-3ZvhAQ7g1KKXgB9mu0s2YnF1uCA?e=YeLb5C
- task2 = https://1drv.ms/w/c/36CD839EC0B6434A/IQCs1mBjxkS5RLmjlR3GmCseAbVPm-TOs0aTNkFR6Fzuu8Q?e=E5nI5b
+
